@@ -3,10 +3,10 @@
 **Name of your app** là một bài tập 2 tại môn UDPT. Ứng dụng cho phép người dùng gửi tin nhắn (email) cho người dùng khác.
 
 Thành viên:
-* [ ] **1412328** Võ Ngọc Công Minh (vongoccongminh)
+* [x] **1412328** Võ Ngọc Công Minh (vongoccongminh)
 * [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
 
-URL: **URL hosting của bài tập**
+URL: **https://lab2-app-mess.herokuapp.com/users**
 
 ## Yêu cầu
 
