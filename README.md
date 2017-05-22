@@ -6,7 +6,7 @@ Thành viên:
 * [x] **1412328** Võ Ngọc Công Minh (vongoccongminh)
 * [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
 
-URL: **https://lab2-app-mess.herokuapp.com/users**
+URL: **https://lab2-app-mess.herokuapp.com**
 
 ## Yêu cầu
 
